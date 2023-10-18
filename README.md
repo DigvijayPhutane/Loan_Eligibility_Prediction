@@ -1,8 +1,6 @@
 # Loan_Eligibility_Prediction
 Loan Eligibility Prediction project using SVM with Machine Learning Python for making loan approval predictions.
 
-# Loan Eligibility Prediction Web Application
-
 **Author**: Digvijay Phutane
 
 ## Overview
