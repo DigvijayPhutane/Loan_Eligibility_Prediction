@@ -16,7 +16,6 @@ This web application predicts loan eligibility using a Support Vector Machine (S
 - `templates/`: Directory containing HTML templates for the web interface.
 - `data/`: Directory containing the dataset used for model training and EDA.
 - `notebooks/`: Jupyter notebooks used for EDA and model training.
-- `requirements.txt`: A list of Python packages required to run the project.
 - `README.md`: This file.
 
 ## Getting Started
